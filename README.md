@@ -19,7 +19,7 @@ Manual testing based on:
 ## 📑 Evidence
 - [Test Cases](docs/Reporte_de_Pruebas-LeonardoUMM.xlsx)
 - [Bug Reports](docs/Reporte_de_Bugs-LeonardoUMM.xlsx)
-- [Matriz de Cobertura](docs/Matriz_de_Cobertura-LeonardoUMM.xlsx)
+- [Coverage Matrix](docs/Matriz_de_Cobertura-LeonardoUMM.xlsx)
 - [Screenshots & Results](docs/evidence.md)
 
 ## 📊 Results
