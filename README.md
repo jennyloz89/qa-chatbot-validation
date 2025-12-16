@@ -17,10 +17,10 @@ Manual testing based on:
 - Bug reporting with clear reproduction steps
 
 ## 📑 Evidence
-- [Test Cases](docs/test-cases.md)
-- [Bug Reports](docs/bug-reports.md)
+- [Test Cases](docs/Reporte_de_Pruebas-LeonardoUMM.xlsx)
+- [Bug Reports](docs/Reporte_de_Bugs-LeonardoUMM.xlsx)
+- [Matriz de Cobertura](docs/Matriz_de_Cobertura-LeonardoUMM.xlsx)
 - [Screenshots & Results](docs/evidence.md)
-- [Summary](docs/summary.md)
 
 ## 📊 Results
 All critical flows were validated. Several issues were identified related to fallback handling and tone consistency, documented in bug reports with reproduction steps and recommendations.
